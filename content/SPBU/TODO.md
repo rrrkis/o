@@ -1,5 +1,5 @@
 ---
-title: TODO
+title: {{TODO}}
 ---
 1. [**Матлогика**](http://65.108.209.161:8888/LOGIC.pdf)
 	1. Контрольная ![[logic_kr_1.png]]
