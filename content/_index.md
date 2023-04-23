@@ -1,7 +1,7 @@
 ---
 title: "Meh Notes"
 ---
-It's my university notes. I'm happy to have them, thought I'm not a good student.
+It's my university notes. I'm happy to have them, though I'm not a good student.
 
 ### SSA
 1. [[SSA/Графики в R]]
