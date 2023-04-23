@@ -2,13 +2,14 @@
 title: "TODO"
 ---
 1. [**Матлогика**](http://65.108.209.161:8888/LOGIC.pdf)
-	1. Контрольная 
-		![[SPBU/media/logic_kr_1.png]]
-	1. Тьюринг
+	1. Контрольная ![[SPBU/media/logic_kr_1.png]]
+	2. Тьюринг
 2. **[Теорвер и моделирование](https://drive.google.com/drive/folders/1goQBn7rOJBaOGDmCmc1Df_yPDG2XQgBV)**
-	1. Контрольная по теорверу 
-		![[SPBU/media/tv_kr_1.png]]
+	1. Контрольная по теорверу ![[SPBU/media/tv_kr_1.png]]
 	1. Штрафы за домашки по ТВ
 	2. Контрольная по моделированию
 	3. ИДЗ по моделированию
 3. Статистика
+
+
+![[SPBU/media/logic_kr_1.png]]
