@@ -1,3 +1,6 @@
+---
+title: home
+---
 It's my university notes. I'm happy to have them, thought I'm not a good student.
 
 ## SSA
