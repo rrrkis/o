@@ -1,5 +1,5 @@
 ---
-title: {{Графики в R}}
+title: "Графики в R"
 ---
 #template
 
