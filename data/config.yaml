@@ -1,5 +1,5 @@
 name: Mikhail K
-enableToc: true
+enableToc: false
 openToc: false
 enableLinkPreview: true
 enableLatex: true
@@ -7,7 +7,7 @@ enableCodeBlockTitle: true
 enableCodeBlockCopy: true
 enableCallouts: true
 enableSPA: true
-enableFooter: true
+enableFooter: false
 enableContextualBacklinks: false
 enableRecentNotes: false
 enableGitHubEdit: true
