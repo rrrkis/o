@@ -1,6 +1,6 @@
-baseURL = "https://rrrkis.github.io/o/"
+baseURL = "https://rrrkis.github.io/"
 languageCode = "en-us"
-relativeURLs = false
+relativeURLs = true
 disablePathToLower = true
 ignoreFiles = [
     "/content/templates/*",
