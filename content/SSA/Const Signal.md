@@ -16,6 +16,7 @@ title: "Const Signal"
 В письме совсем неудобно писать подробно, оттого дополнительно ленно. 
 Наверно, потом из этих микроотчетов сошьется курсовая.
 
+
 ## Условие задачи
 Если не сказано обратного,
 1. $N = (100,\,200,\,300,\ldots,10000)$
@@ -23,24 +24,29 @@ title: "Const Signal"
 3. $M = \textbf{const} = 10$
 4. $\delta = 30$
 
+
 ## Случай $\alpha \in (0, \frac 1 2]$
 Привычно $\alpha \uparrow$ => $ro_n\downarrow.$ 
 
-![[ro_n_alpha.jpg]]
+![ro_n_alpha](SSA/data/const/ro_n_alpha.jpg)
 Здесь ось OY логарифмирована, чтобы визуально лучше разделялись линии.
 
-![[ro_n_alpha_relative.jpg]]
+![ro_n_alpha_relative](SSA/data/const/ro_n_alpha_relative.jpg)
 Почему при $N \simeq 100$ "просадка" для $1/4 : 1/2$?
 
 ##### Рассмотрим поближе, пусть $N = (40, 45, 50,\ldots,500)$. 
 
-![[SSA/data/const/ro_n_alpha_closer.jpg]]
-![[SSA/data/const/ro_n_alpha_relative_closer.jpg]]
+![ro_n_alpha_closer](SSA/data/const/ro_n_alpha_closer.jpg)
+![ro_n_alpha_relative_closer](SSA/data/const/ro_n_alpha_relative_closer.jpg)
 
 Из-за большого шага $N$ это изменение скорости роста пропускалось. Имеет смысл в будущих работах для малых $N$ делать малый шаг, к примеру, до $150$, затем изменить $\Delta \coloneqq 100$ (к примеру). Либо наборот брать $N$ чуть больше, что опустить этот момент.
+
 
 ## Случай $\alpha > \frac 1 2$
 При $\alpha > \frac 1 2$ наоборот, $\alpha \uparrow$ => $ro_n\uparrow.$ Т.о., можно сделать предположение, что $ro_n$ достигает минимума при $\alpha \to \frac 1 2.$  
 
-![[SSA/data/const/ro_n_alpha_bigger.jpg]] ![[SSA/data/const/ro_n_alpha_bigger_relative.jpg]]
+![ro_n_alpha_bigger](SSA/data/const/ro_n_alpha_bigger.jpg) ![ro_n_alpha_bigger_relative](SSA/data/const/ro_n_alpha_bigger_relative.jpg)
 Здесь у нас снова "просадка", но это просто аналогично предыдущему случаю.
+
+
+## 
