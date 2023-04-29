@@ -11,3 +11,4 @@ It's my university notes. I'm happy to have them, though I'm not a good student.
 ## SPBU
 1. [[SPBU/Статистика]]
 2. [[SPBU/TODO]]
+3. [[SPBU/TURING]]
