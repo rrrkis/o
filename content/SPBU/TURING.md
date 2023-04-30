@@ -75,7 +75,7 @@ table:
     ' ': {write: 1, L: exit}
   exit:
 ```
-
+---
 ```turing
 00-00>
 01-01>
